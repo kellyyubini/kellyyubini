@@ -1,7 +1,7 @@
 baseURL = "https://www.kellyyubini.org/"
 theme = "hugo-apero"
 languageCode = "es"
-title = "Kelly Yubini Yubini     "
+title = "Kelly Yubini Yubini"
 author = "Kelly Yubini"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
