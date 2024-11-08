@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Kelly. Hola a todos/as mi nombre es Kelly ! :)
 
 <!--
 **kellyyubini/kellyyubini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
