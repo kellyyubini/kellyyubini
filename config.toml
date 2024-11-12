@@ -1,4 +1,4 @@
-baseURL = "https://www.kellyyubini.org/"
+baseURL = "https://kellyyubini.netlify.app/"
 theme = "hugo-apero"
 languageCode = "es"
 locale = "es-ES"
