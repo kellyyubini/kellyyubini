@@ -10,8 +10,4 @@ I am a sociologist and Master's student at the Faculty of Architecture, Geograph
 Soy sociologa y estudiante de Magister en la Facultad de Arquitectura, Geografía y Urbanismo. 
 En la actualidad he estado aprendiendo a programar en R, y lo he usado para automatizar la creación de mapas, pero principalmente para trabajar con bases de datos sobre patentes cientificas. Este repositorio tiene como objetivo mostrar mi trabajo y compartir ideas con otros usuarios de Git, GitHub, y programadores en R por medio de un blog en hugo.
 
-  
-A line I wrote on my local computer  
-A line I wrote on my local computer  
-A line I wrote on my local computer  
-A line I wrote on my local computer  
+
