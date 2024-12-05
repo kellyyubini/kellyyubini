@@ -113,32 +113,15 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "bluesky" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://bsky.app/"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://github.com/kellyyubini"
   [[params.social]]
       icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
-
+      url       = "https://x.com/KellyYubini"
+ [[params.social]]
+      icon      = "linkedin"
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/kelly-yubini-aa9a32182/"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -147,7 +130,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "Acerca de mi"
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
@@ -157,9 +140,14 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "Projectos"
     title = "Project Portfolio"
     url = "/project/"
+    weight = 3
+     [[menu.header]]
+    name = "Contacto"
+    title = "Contacto"
+    url = "/contacto/"
     weight = 3
     
   # Configure footer  
