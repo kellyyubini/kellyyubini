@@ -144,7 +144,7 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projectos"
+    name = "Proyectos"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
