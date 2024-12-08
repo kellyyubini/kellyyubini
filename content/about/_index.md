@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Información sobre Kelly Yubini Y. Analista de Datos Espaciales y Estadísticos.
 headless: false
 show_header: true
 sidebar_left: false

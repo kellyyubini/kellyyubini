@@ -99,7 +99,7 @@ enableEmoji = true
     reactions_enabled = "1"
     emit_metadata = "0"
     theme = "light"
-    lang = "en"
+    lang = "en" 
 
   # Configuration of math rendering
   [params.math]
@@ -122,6 +122,10 @@ enableEmoji = true
       icon      = "linkedin"
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/kelly-yubini-aa9a32182/"
+ [[params.social]]
+      icon      = "envelope"
+      icon_pack = "fas"
+      url       = "/contacto/"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -147,7 +151,7 @@ enableEmoji = true
      [[menu.header]]
     name = "Contacto"
     title = "Contacto"
-    url = "/contacto/"
+    url = "/contact/"
     weight = 3
     
   # Configure footer  
